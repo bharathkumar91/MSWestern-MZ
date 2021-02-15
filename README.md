@@ -1,6 +1,9 @@
 # MSWestern-MZ
 MSWestern with Mass Filter
 
+## 1.0.5
+- Added the median of median in bootstraping
+
 ## 1.0.4
 - Added bootstraping method
 
